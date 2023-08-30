@@ -1,11 +1,9 @@
 # GrubDash
-<intro>
+For this project, I used Node.js and Express.js to set up a RESTful API and build specific routes that allow users to create, read, update, and list food dishes, and create, read, update, delete, and list orders containing said dishes, on an app similar to GrubHub/DoorDash. Through the completion of this project, I became quite comfortable with (and quite enjoyed) using the Express framework and writing middleware functions.
+
+#### Connected Frontend App (Provided): https://github.com/ariesgrey/starter-grub-dash-front-end
 
 # Provided Thinkful Instructions:
-You've been hired as a backend developer for a new startup called GrubDash!
-As another developer works on the design and frontend experience, you have been tasked with setting up an API and building out specific routes so that
-the frontend developers can demo out some initial design ideas to the big bosses.
-
 This project will test your ability to build APIs with complex validation.
 To succeed at this project, you'll need to demonstrate that you can do the following:
 - Run tests from the command line.
